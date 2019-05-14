@@ -1,0 +1,506 @@
+﻿Symbol,Name,Sector,Price,Price/Earnings(trades at X times the earnings),52 Week High,52 Week Low,52 Week Avg,P/AA %,  52-Week P/AA % Position,Rating,Action,Rate-to-Num,Act-to-Num,PE/R,PE/A
+A,Agilent Technologies Inc,Health Care,65.05,27.45,75,49.23,62.115,13.27%,Below 52 Week High ,BETTER,SELL,3,3,9,9
+AAL,American Airlines Group,Industrials,48.6,9.92,59.08,39.21,49.145,23.95%,Above 52 Week Low,GOOD,BUY,2,1,5,10
+AAP,Advance Auto Parts,Consumer Discretionary,109.63,19.54,169.55,78.81,124.18,39.11%,Above 52 Week Low,GOOD,HOLD,2,2,10,10
+AAPL,Apple Inc.,Information Technology,155.15,16.86,180.1,131.12,155.61,18.33%,Above 52 Week Low,BEST,HOLD,1,2,17,8
+ABBV,AbbVie Inc.,Health Care,108.48,19.41,125.86,60.05,92.955,13.81%,Below 52 Week High ,BETTER,HOLD,3,2,6,10
+ABC,AmerisourceBergen Corp,Health Care,91.55,15.54,106.27,71.9,89.085,13.85%,Below 52 Week High ,BETTER,HOLD,3,2,5,8
+ABT,Abbott Laboratories,Health Care,56.27,22.51,64.6,42.28,53.44,12.89%,Below 52 Week High ,BETTER,SELL,3,3,8,8
+ACN,Accenture plc,Information Technology,150.51,25.47,162.6,114.82,138.71,7.44%,Below 52 Week High ,BETTER,SELL,3,3,8,8
+ADBE,Adobe Systems Inc,Information Technology,185.16,52.31,204.45,114.451,159.4505,9.44%,Below 52 Week High ,BETTER,SELL,3,3,17,17
+ADI,"Analog Devices, Inc.",Information Technology,82.68,17.67,98.38,74.65,86.515,10.76%,Above 52 Week Low,BEST,HOLD,1,2,18,9
+ADM,Archer-Daniels-Midland Co,Consumer Staples,41.35,17.45,47.44,38.59,43.015,7.15%,Above 52 Week Low,BEST,HOLD,1,2,17,9
+ADP,Automatic Data Processing,Information Technology,108.25,29.34,125.24,95.5,110.37,13.35%,Above 52 Week Low,BEST,SELL,1,3,29,10
+ADS,Alliance Data Systems,Information Technology,240.6,13.02,278.33,209,243.665,15.12%,Above 52 Week Low,BEST,BUY,1,1,13,13
+ADSK,Autodesk Inc,Information Technology,104.81,-77.07,131.1,81.75,106.425,28.21%,Above 52 Week Low,GOOD,LOOK,2,4,-39,-19
+AEE,Ameren Corp,Utilities,52.59,20.38,64.89,51.81,58.35,1.51%,Above 52 Week Low,BEST,SELL,1,3,20,7
+AEP,American Electric Power,Utilities,63.38,17.32,78.07,62.69,70.38,1.10%,Above 52 Week Low,BEST,HOLD,1,2,17,9
+AES,AES Corp,Utilities,10.06,9.96,12.05,10,11.025,0.60%,Above 52 Week Low,BETTER,BUY,3,1,3,10
+AET,Aetna Inc,Health Care,178,18.11,194.4,119.51,156.955,8.44%,Below 52 Week High ,BETTER,HOLD,3,2,6,9
+AFL,AFLAC Inc,Financials,83.25,12.24,91.73,68.8,80.265,9.24%,Below 52 Week High ,BETTER,BUY,3,1,4,12
+AGN,"Allergan, Plc",Health Care,164.2,10.65,256.8,160.07,208.435,2.58%,Above 52 Week Low,BEST,BUY,1,1,11,11
+AIG,"American International Group, Inc.",Financials,58.28,23.22,67.3,57.85,62.575,0.74%,Above 52 Week Low,BETTER,SELL,3,3,8,8
+AIV,Apartment Investment & Management,Real Estate,38.21,15.6,46.855,38.85,42.8525,-1.65%,Below 52 Week Low,CAUTION,HOLD,4,2,4,8
+AIZ,Assurant Inc,Financials,85.16,33.27,106.985,85.91,96.4475,-0.87%,Below 52 Week Low,CAUTION,SELL,4,3,8,11
+AJG,Arthur J. Gallagher & Co.,Financials,64.4,21.05,70.55,53.63,62.09,8.72%,Below 52 Week High ,BETTER,SELL,3,3,7,7
+AKAM,Akamai Technologies Inc,Information Technology,62.49,32.55,69.56,44.65,57.105,10.16%,Below 52 Week High ,BETTER,SELL,3,3,11,11
+ALB,Albemarle Corp,Materials,105.18,26.03,144.99,90.35,117.67,16.41%,Above 52 Week Low,BEST,SELL,1,3,26,9
+ALGN,Align Technology,Health Care,220.71,56.59,287.32,92.61,189.965,23.18%,Below 52 Week High ,BETTER,SELL,3,3,19,19
+ALK,Alaska Air Group Inc,Industrials,64.04,9.66,101.43,59.25,80.34,8.08%,Above 52 Week Low,BEST,BUY,1,1,10,10
+ALL,Allstate Corp,Financials,90.06,13.26,105.36,77.73,91.545,15.86%,Above 52 Week Low,BEST,BUY,1,1,13,13
+ALLE,Allegion,Industrials,77.32,21.07,89.81,66.72,78.265,15.89%,Above 52 Week Low,BEST,SELL,1,3,21,7
+ALXN,Alexion Pharmaceuticals,Health Care,108.47,22.18,149.34,96.18,122.76,12.78%,Above 52 Week Low,BEST,SELL,1,3,22,7
+AMAT,Applied Materials Inc,Information Technology,45.75,14.08,60.89,34.58,47.735,32.30%,Above 52 Week Low,GOOD,BUY,2,1,7,14
+AMD,Advanced Micro Devices Inc,Information Technology,11.22,187,15.65,9.7,12.675,15.67%,Above 52 Week Low,BEST,SELL,1,3,187,62
+AME,AMETEK Inc,Industrials,72.05,27.61,78.51,51.31,64.91,8.23%,Below 52 Week High ,BETTER,SELL,3,3,9,9
+AMG,Affiliated Managers Group Inc,Financials,179.11,12.24,216.995,148.81,182.9025,20.36%,Above 52 Week Low,GOOD,BUY,2,1,6,12
+AMGN,Amgen Inc,Health Care,173.12,13.76,201.23,152.16,176.695,13.77%,Above 52 Week Low,BEST,BUY,1,1,14,14
+AMP,Ameriprise Financial,Financials,152.5,12.41,183.9,118.84,151.37,17.07%,Below 52 Week High ,BETTER,BUY,3,1,4,12
+AMT,American Tower Corp A,Real Estate,133.57,20.68,155.28,103.36,129.32,13.98%,Below 52 Week High ,BETTER,SELL,3,3,7,7
+AMZN,Amazon.com Inc,Consumer Discretionary,1350.5,296.16,1498,812.5,1155.25,9.85%,Below 52 Week High ,BETTER,SELL,3,3,99,99
+ANDV,Andeavor,Energy,96.9,18.78,121.71,75.11,98.41,29.01%,Above 52 Week Low,GOOD,HOLD,2,2,9,9
+ANSS,ANSYS,Information Technology,148.84,42.53,164.9,94.52,129.71,9.74%,Below 52 Week High ,BETTER,SELL,3,3,14,14
+ANTM,Anthem Inc.,Health Care,230.57,19.23,267.95,156.81,212.38,13.95%,Below 52 Week High ,BETTER,HOLD,3,2,6,10
+AON,Aon plc,Financials,136.05,20.8,152.78,113.2201,133.00005,10.95%,Below 52 Week High ,BETTER,SELL,3,3,7,7
+AOS,A.O. Smith Corp,Industrials,60.24,27.76,68.39,48.925,58.6575,11.92%,Below 52 Week High ,BETTER,SELL,3,3,9,9
+APA,Apache Corporation,Energy,37.73,-251.53,57.9,38.14,48.02,-1.07%,Below 52 Week Low,CAUTION,LOOK,4,4,-63,-63
+APC,Anadarko Petroleum Corp,Energy,56.2,-21.29,70,39.96,54.98,19.71%,Below 52 Week High ,BETTER,LOOK,3,4,-7,-5
+APD,Air Products & Chemicals Inc,Materials,152.8,24.22,175.17,133.6301,154.40005,14.35%,Above 52 Week Low,BEST,SELL,1,3,24,8
+APH,Amphenol Corp,Information Technology,84.44,25.9,93.62,67.26,80.44,9.81%,Below 52 Week High ,BETTER,SELL,3,3,9,9
+APTV,Aptiv Plc,Consumer Discretionary,89.27,69.74,96.91,82.97,89.94,7.59%,Above 52 Week Low,BEST,SELL,1,3,70,23
+ARE,Alexandria Real Estate Equities Inc,Real Estate,114.58,19.03,134.37,106.89,120.63,7.19%,Above 52 Week Low,BEST,HOLD,1,2,19,10
+ARNC,Arconic Inc,Industrials,24.45,20.21,31.17,21.755,26.4625,12.39%,Above 52 Week Low,BEST,SELL,1,3,20,7
+ATVI,Activision Blizzard,Information Technology,65.83,31.8,74.945,38.93,56.9375,12.16%,Below 52 Week High ,BETTER,SELL,3,3,11,11
+AVB,"AvalonBay Communities, Inc.",Real Estate,154.94,17.97,199.52,156.01,177.765,-0.69%,Below 52 Week Low,CAUTION,HOLD,4,2,4,9
+AVGO,Broadcom,Information Technology,229.57,15.94,285.68,202.61,244.145,13.31%,Above 52 Week Low,BEST,HOLD,1,2,16,8
+AVY,Avery Dennison Corp,Materials,110.77,22.11,123.67,78.471,101.0705,10.43%,Below 52 Week High ,BETTER,SELL,3,3,7,7
+AWK,American Water Works Company Inc,Utilities,76.06,26.23,92.37,71.89,82.13,5.80%,Above 52 Week Low,BEST,SELL,1,3,26,9
+AXP,American Express Co,Financials,88.34,15,102.385,75.51,88.9475,16.99%,Above 52 Week Low,BEST,HOLD,1,2,15,8
+AYI,Acuity Brands Inc,Industrials,145.41,18.22,225.36,142,183.68,2.40%,Above 52 Week Low,BEST,HOLD,1,2,18,9
+AZO,AutoZone Inc,Consumer Discretionary,718.57,16.31,797.89,491.13,644.51,9.94%,Below 52 Week High ,BETTER,HOLD,3,2,5,8
+BA,Boeing Company,Industrials,329.66,27.29,361.45,163.69,262.57,8.80%,Below 52 Week High ,BETTER,SELL,3,3,9,9
+BAC,Bank of America Corp,Financials,29.74,16.34,32.67,22.07,27.37,8.97%,Below 52 Week High ,BETTER,HOLD,3,2,5,8
+BAX,Baxter International Inc.,Health Care,62.56,25.12,72.58,48.15,60.365,13.81%,Below 52 Week High ,BETTER,SELL,3,3,8,8
+BBT,BB&T Corporation,Financials,51.07,16.26,55.99,41.17,48.58,8.79%,Below 52 Week High ,BETTER,HOLD,3,2,5,8
+BBY,Best Buy Co. Inc.,Consumer Discretionary,68.79,19.22,78.59,41.67,60.13,12.47%,Below 52 Week High ,BETTER,HOLD,3,2,6,10
+BDX,Becton Dickinson,Health Care,211.44,22.28,248.3888,175.66,212.0244,20.37%,Above 52 Week Low,GOOD,SELL,2,3,11,7
+BEN,Franklin Resources,Financials,38,12.67,47.65,37.01,42.33,2.67%,Above 52 Week Low,BEST,BUY,1,1,13,13
+BF.B,Brown-Forman Corp.,Consumer Staples,63.33,37.04,69.9028,45.415,57.6589,9.40%,Below 52 Week High ,BETTER,SELL,3,3,12,12
+BHF,Brighthouse Financial Inc,Financials,55.44,22.63,75,52.751,63.8755,5.10%,Above 52 Week Low,BEST,SELL,1,3,23,8
+BHGE,"Baker Hughes, a GE Company",Energy,27.5,305.56,57.73,28.03,42.88,-1.89%,Below 52 Week Low,CAUTION,SELL,4,3,76,102
+BIIB,Biogen Inc.,Health Care,311.79,14.3,370.57,244.28,307.425,15.86%,Below 52 Week High ,BETTER,BUY,3,1,5,14
+BK,The Bank of New York Mellon Corp.,Financials,53.29,14.76,58.99,44.91,51.95,9.66%,Below 52 Week High ,BETTER,BUY,3,1,5,15
+BLK,BlackRock,Financials,509.38,22.49,594.52,368,481.26,14.32%,Below 52 Week High ,BETTER,SELL,3,3,7,7
+BLL,Ball Corp,Materials,38.44,20.56,43.24,35.6,39.42,7.98%,Above 52 Week Low,BEST,SELL,1,3,21,7
+BMY,Bristol-Myers Squibb,Health Care,62.69,20.83,66.1,51.12,58.61,5.16%,Below 52 Week High ,BETTER,SELL,3,3,7,7
+BRK.B,Berkshire Hathaway,Financials,191.42,30.43,217.62,160.93,189.275,12.04%,Below 52 Week High ,BETTER,SELL,3,3,10,10
+BSX,Boston Scientific,Health Care,25.2,20,29.93,23.29,26.61,8.20%,Above 52 Week Low,BEST,SELL,1,3,20,7
+BWA,BorgWarner,Consumer Discretionary,51.94,14.15,58.22,37.54,47.88,10.79%,Below 52 Week High ,BETTER,BUY,3,1,5,14
+BXP,Boston Properties,Real Estate,112.09,18.05,140.13,111.87,126,0.20%,Above 52 Week Low,BETTER,HOLD,3,2,6,9
+C,Citigroup Inc.,Financials,71.87,13.48,80.7,56.14,68.42,10.94%,Below 52 Week High ,BETTER,BUY,3,1,4,13
+CA,"CA, Inc.",Information Technology,32.66,14.32,36.56,30.45,33.505,7.26%,Above 52 Week Low,BEST,BUY,1,1,14,14
+CAG,Conagra Brands,Consumer Staples,35.49,18.2,41.68,32.16,36.92,10.35%,Above 52 Week Low,BEST,HOLD,1,2,18,9
+CAH,Cardinal Health Inc.,Health Care,66.63,12.29,84.88,54.66,69.77,21.90%,Above 52 Week Low,GOOD,BUY,2,1,6,12
+CAT,Caterpillar Inc.,Industrials,145.99,21.22,173.24,90.34,131.79,15.73%,Below 52 Week High ,BETTER,SELL,3,3,7,7
+CB,Chubb Limited,Financials,140.39,17.5,157.5,130.17,143.835,7.85%,Above 52 Week Low,BEST,HOLD,1,2,18,9
+CBG,CBRE Group,Real Estate,41.92,15.82,46.6,30.43,38.515,10.04%,Below 52 Week High ,BETTER,HOLD,3,2,5,8
+CBOE,CBOE Holdings,Financials,111.15,35.06,138.54,76.75,107.645,19.77%,Below 52 Week High ,BETTER,SELL,3,3,12,12
+CBS,CBS Corp.,Consumer Discretionary,51.8,12.05,70.095,52.75,61.4225,-1.80%,Below 52 Week Low,CAUTION,BUY,4,1,3,12
+CCI,Crown Castle International Corp.,Real Estate,103.81,21.45,114.97,86.93,100.95,9.71%,Below 52 Week High ,BETTER,SELL,3,3,7,7
+CCL,Carnival Corp.,Consumer Discretionary,66.76,17.48,72.7,54.75,63.725,8.17%,Below 52 Week High ,BETTER,HOLD,3,2,6,9
+CDNS,Cadence Design Systems,Information Technology,36.82,34.09,46,29.01,37.505,26.92%,Above 52 Week Low,GOOD,SELL,2,3,17,11
+CELG,Celgene Corp.,Health Care,91.02,13.27,147.17,92.85,120.01,-1.97%,Below 52 Week Low,CAUTION,BUY,4,1,3,13
+CERN,Cerner,Health Care,61.22,27.09,73.86,51.2617,62.56085,19.43%,Above 52 Week Low,BEST,SELL,1,3,27,9
+CF,CF Industries Holdings Inc,Materials,37.46,-59.46,43.98,25.04,34.51,14.82%,Below 52 Week High ,BETTER,LOOK,3,4,-20,-15
+CFG,Citizens Financial Group,Financials,42.19,16.04,48.23,31.51,39.87,12.52%,Below 52 Week High ,BETTER,HOLD,3,2,5,8
+CHD,Church & Dwight,Consumer Staples,47.38,24.42,54.1799,43.21,48.69495,9.65%,Above 52 Week Low,BEST,SELL,1,3,24,8
+CHK,Chesapeake Energy,Energy,2.82,4.7,6.59,2.8,4.695,0.71%,Above 52 Week Low,BETTER,BUY,3,1,2,5
+CHRW,C. H. Robinson Worldwide,Industrials,90.47,26,100.18,63.41,81.795,9.69%,Below 52 Week High ,BETTER,SELL,3,3,9,9
+CHTR,Charter Communications,Consumer Discretionary,348.65,162.92,408.83,308.3,358.565,13.09%,Above 52 Week Low,BEST,SELL,1,3,163,54
+CI,CIGNA Corp.,Health Care,189.27,18.11,227.13,141.93,184.53,16.67%,Below 52 Week High ,BETTER,HOLD,3,2,6,9
+CINF,Cincinnati Financial,Financials,70.34,27.48,81.98,68.24,75.11,3.08%,Above 52 Week Low,BEST,SELL,1,3,27,9
+CL,Colgate-Palmolive,Consumer Staples,68.95,24.02,77.91,66.26,72.085,4.06%,Above 52 Week Low,BEST,SELL,1,3,24,8
+CLX,The Clorox Company,Consumer Staples,127.76,23.44,150.4,124.09,137.245,2.96%,Above 52 Week Low,BEST,SELL,1,3,23,8
+CMA,Comerica Inc.,Financials,89.18,18.89,98.18,64.04,81.11,9.17%,Below 52 Week High ,BETTER,HOLD,3,2,6,9
+CMCSA,Comcast Corp.,Consumer Discretionary,38.19,18.54,44,34.78,39.39,9.80%,Above 52 Week Low,BEST,HOLD,1,2,19,9
+CME,CME Group Inc.,Financials,153.04,32.15,163,114.8176,138.9088,6.11%,Below 52 Week High ,BETTER,SELL,3,3,11,11
+CMG,Chipotle Mexican Grill,Consumer Discretionary,266.01,45.86,499,263,381,1.14%,Above 52 Week Low,BEST,SELL,1,3,46,15
+CMI,Cummins Inc.,Industrials,165.73,16.83,194.18,143.8301,169.00505,15.23%,Above 52 Week Low,BEST,HOLD,1,2,17,8
+CMS,CMS Energy,Utilities,41.77,21.42,50.85,41.07,45.96,1.70%,Above 52 Week Low,BEST,SELL,1,3,21,7
+CNC,Centene Corporation,Health Care,100.36,19.12,112.42,65.03,88.725,10.73%,Below 52 Week High ,BETTER,HOLD,3,2,6,10
+CNP,CenterPoint Energy,Utilities,25.85,19.73,30.45,25.51,27.98,1.33%,Above 52 Week Low,BEST,HOLD,1,2,20,10
+COF,Capital One Financial,Financials,91.8,11.85,106.5,76.05,91.275,13.80%,Below 52 Week High ,BETTER,BUY,3,1,4,12
+COG,Cabot Oil & Gas,Energy,23.01,60.55,29.57,21.4,25.485,7.52%,Above 52 Week Low,BEST,SELL,1,3,61,20
+COL,Rockwell Collins,Industrials,133.31,22.29,139.63,89.9,114.765,4.53%,Below 52 Week High ,BETTER,SELL,3,3,7,7
+COO,The Cooper Companies,Health Care,223.17,22.96,256.39,187.02,221.705,12.96%,Below 52 Week High ,BETTER,SELL,3,3,8,8
+COP,ConocoPhillips,Energy,53.24,72.93,61.315,42.265,51.79,13.17%,Below 52 Week High ,BETTER,SELL,3,3,24,24
+COST,Costco Wholesale Corp.,Consumer Staples,178.61,30.69,199.88,150,174.94,10.64%,Below 52 Week High ,BETTER,SELL,3,3,10,10
+COTY,"Coty, Inc",Consumer Staples,19.96,24.64,21.175,14.24,17.7075,5.74%,Below 52 Week High ,BETTER,SELL,3,3,8,8
+CPB,Campbell Soup,Consumer Staples,44.83,14.84,64.23,43.5,53.865,3.06%,Above 52 Week Low,BEST,BUY,1,1,15,15
+CRM,Salesforce.com,Information Technology,104.03,520.15,114.52,79.63,97.075,9.16%,Below 52 Week High ,BETTER,SELL,3,3,173,173
+CSCO,Cisco Systems,Information Technology,38.77,17.87,42.98,30.36,36.67,9.80%,Below 52 Week High ,BETTER,HOLD,3,2,6,9
+CSRA,CSRA Inc.,Information Technology,30.85,15.12,33.79,27.38,30.585,8.70%,Below 52 Week High ,BETTER,HOLD,3,2,5,8
+CSX,CSX Corp.,Industrials,50.47,21.94,60.04,45.41,52.725,11.14%,Above 52 Week Low,BEST,SELL,1,3,22,7
+CTAS,Cintas Corporation,Industrials,149.32,32.75,169.96,113.79,141.875,12.14%,Below 52 Week High ,BETTER,SELL,3,3,11,11
+CTL,CenturyLink Inc,Telecommunication Services,16.2,8.35,27.61,13.161,20.3855,23.09%,Above 52 Week Low,GOOD,BUY,2,1,4,8
+CTSH,Cognizant Technology Solutions,Information Technology,75.16,22.44,79.28,54.76,67.02,5.20%,Below 52 Week High ,BETTER,SELL,3,3,7,7
+CTXS,Citrix Systems,Information Technology,84.53,20.37,95,73.3346,84.1673,11.02%,Below 52 Week High ,BETTER,SELL,3,3,7,7
+CVS,CVS Health,Consumer Staples,70.55,12.36,84,66.45,75.225,6.17%,Above 52 Week Low,BEST,BUY,1,1,12,12
+CVX,Chevron Corp.,Energy,112.3,27.52,133.88,102.55,118.215,9.51%,Above 52 Week Low,BEST,SELL,1,3,28,9
+CXO,Concho Resources,Energy,140.09,84.39,162.91,106.73,134.82,14.01%,Below 52 Week High ,BETTER,SELL,3,3,28,28
+D,Dominion Energy,Utilities,73.31,20.42,85.3,71.59,78.445,2.40%,Above 52 Week Low,BEST,SELL,1,3,20,7
+DAL,Delta Air Lines Inc.,Industrials,51.23,10.37,60.79,43.81,52.3,16.94%,Above 52 Week Low,BEST,BUY,1,1,10,10
+DE,Deere & Co.,Industrials,153.66,23.14,171.96,106.72,139.34,10.64%,Below 52 Week High ,BETTER,SELL,3,3,8,8
+DFS,Discover Financial Services,Financials,72.4,12.13,81.93,57.5,69.715,11.63%,Below 52 Week High ,BETTER,BUY,3,1,4,12
+DG,Dollar General,Consumer Discretionary,95.1,21.18,105.82,65.97,85.895,10.13%,Below 52 Week High ,BETTER,SELL,3,3,7,7
+DGX,Quest Diagnostics,Health Care,96.42,17.07,112.965,90.1,101.5325,7.01%,Above 52 Week Low,BEST,HOLD,1,2,17,9
+DHI,D. R. Horton,Consumer Discretionary,44.55,16.32,53.32,29.3716,41.3458,16.45%,Below 52 Week High ,BETTER,HOLD,3,2,5,8
+DHR,Danaher Corp.,Health Care,92.16,22.87,104.82,78.97,91.895,12.08%,Below 52 Week High ,BETTER,SELL,3,3,8,8
+DIS,The Walt Disney Company,Consumer Discretionary,101.35,17.78,116.1,96.2,106.15,5.35%,Above 52 Week Low,BEST,HOLD,1,2,18,9
+DISCA,Discovery Communications-A,Consumer Discretionary,22.87,11,30.25,15.99,23.12,43.03%,Above 52 Week Low,CAUTION,BUY,4,1,3,11
+DISCK,Discovery Communications-C,Consumer Discretionary,21.58,10.37,29.18,14.99,22.085,43.96%,Above 52 Week Low,CAUTION,BUY,4,1,3,10
+DISH,Dish Network,Consumer Discretionary,43.77,16.09,66.5,42.48,54.49,3.04%,Above 52 Week Low,BEST,HOLD,1,2,16,8
+DLR,Digital Realty Trust Inc,Real Estate,98.96,16.55,127.23,101.101,114.1655,-2.12%,Below 52 Week Low,CAUTION,HOLD,4,2,4,8
+DLTR,Dollar Tree,Consumer Discretionary,101.58,26.66,116.65,65.63,91.14,12.92%,Below 52 Week High ,BETTER,SELL,3,3,9,9
+DOV,Dover Corp.,Industrials,96.2,23.87,109.06,75.51,92.285,11.79%,Below 52 Week High ,BETTER,SELL,3,3,8,8
+DPS,Dr Pepper Snapple Group,Consumer Staples,116.93,26.57,126.65,83.23,104.94,7.67%,Below 52 Week High ,BETTER,SELL,3,3,9,9
+DRE,Duke Realty Corp,Real Estate,24.52,19.77,30.14,24.73,27.435,-0.85%,Below 52 Week Low,CAUTION,HOLD,4,2,5,10
+DRI,Darden Restaurants,Consumer Discretionary,91.33,22.72,100.11,71.7,85.905,8.77%,Below 52 Week High ,BETTER,SELL,3,3,8,8
+DTE,DTE Energy Co.,Utilities,98.49,19.12,116.74,96.56,106.65,2.00%,Above 52 Week Low,BEST,HOLD,1,2,19,10
+DUK,Duke Energy,Utilities,74.32,16.7,91.8,72.93,82.365,1.91%,Above 52 Week Low,BEST,HOLD,1,2,17,8
+DVA,DaVita Inc.,Health Care,71.91,20.55,80.71,52.51,66.61,10.90%,Below 52 Week High ,BETTER,SELL,3,3,7,7
+DVN,Devon Energy Corp.,Energy,34.94,23.93,47.25,28.7947,38.02235,21.34%,Above 52 Week Low,GOOD,SELL,2,3,12,8
+DWDP,DowDuPont,Materials,68.21,49.43,77.08,64.01,70.545,6.56%,Above 52 Week Low,BEST,SELL,1,3,49,16
+DXC,DXC Technology,Information Technology,91.92,79.93,102.95,67.76,85.355,10.71%,Below 52 Week High ,BETTER,SELL,3,3,27,27
+EA,Electronic Arts,Information Technology,116.54,34.48,131.01,81.27,106.14,11.04%,Below 52 Week High ,BETTER,SELL,3,3,11,11
+EBAY,eBay Inc.,Information Technology,41.02,24.86,46.99,31.89,39.44,12.70%,Below 52 Week High ,BETTER,SELL,3,3,8,8
+ECL,Ecolab Inc.,Materials,127.76,28.08,140.5,119.61,130.055,6.81%,Above 52 Week Low,BEST,SELL,1,3,28,9
+ED,Consolidated Edison,Utilities,74.73,18.64,89.7,72.63,81.165,2.89%,Above 52 Week Low,BEST,HOLD,1,2,19,9
+EFX,Equifax Inc.,Industrials,114,19.03,147.02,90.72,118.87,25.66%,Above 52 Week Low,GOOD,HOLD,2,2,10,10
+EIX,Edison Int'l,Utilities,58.07,13.23,83.38,58.76,71.07,-1.17%,Below 52 Week Low,CAUTION,BUY,4,1,3,13
+EL,Estee Lauder Cos.,Consumer Staples,131.46,37.78,138.74,81.69,110.215,5.25%,Below 52 Week High ,BETTER,SELL,3,3,13,13
+EMN,Eastman Chemical,Materials,93.57,12.28,104.08,76.02,90.05,10.10%,Below 52 Week High ,BETTER,BUY,3,1,4,12
+EMR,Emerson Electric Company,Industrials,66.4,25.74,74.45,56.77,65.61,10.81%,Below 52 Week High ,BETTER,SELL,3,3,9,9
+EOG,EOG Resources,Energy,101.04,246.44,119,81.99,100.495,15.09%,Below 52 Week High ,BETTER,SELL,3,3,82,82
+EQIX,Equinix,Real Estate,409.98,23.06,495.345,361.9,428.6225,13.29%,Above 52 Week Low,BEST,SELL,1,3,23,8
+EQR,Equity Residential,Real Estate,55.26,17.6,70.455,56.07,63.2625,-1.44%,Below 52 Week Low,CAUTION,HOLD,4,2,4,9
+EQT,EQT Corporation,Energy,46.25,53.16,67.84,47.13,57.485,-1.87%,Below 52 Week Low,CAUTION,SELL,4,3,13,18
+ES,Eversource Energy,Utilities,56.11,18.22,66.15,55.2,60.675,1.65%,Above 52 Week Low,BEST,HOLD,1,2,18,9
+ESRX,Express Scripts,Health Care,73.35,10.72,83.485,55.8,69.6425,12.14%,Below 52 Week High ,BETTER,BUY,3,1,4,11
+ESS,"Essex Property Trust, Inc.",Real Estate,218.28,18.66,270.04,214.03,242.035,1.99%,Above 52 Week Low,BEST,HOLD,1,2,19,9
+ETFC,E*Trade,Financials,48.48,22.14,56,32.25,44.125,13.43%,Below 52 Week High ,BETTER,SELL,3,3,7,7
+ETN,Eaton Corporation,Industrials,79.41,17.08,89.85,69.45,79.65,14.34%,Above 52 Week Low,BEST,HOLD,1,2,17,9
+ETR,Entergy Corp.,Utilities,72.02,10.65,87.95,69.63,78.79,3.43%,Above 52 Week Low,BEST,BUY,1,1,11,11
+EVHC,Envision Healthcare,Health Care,35.34,10.91,73,23.77,48.385,48.67%,Above 52 Week Low,CAUTION,BUY,4,1,3,11
+EW,Edwards Lifesciences,Health Care,123.78,32.57,138.48,89.2,113.84,10.62%,Below 52 Week High ,BETTER,SELL,3,3,11,11
+EXC,Exelon Corp.,Utilities,35.98,14.51,42.67,33.3,37.985,8.05%,Above 52 Week Low,BEST,BUY,1,1,15,15
+EXPD,Expeditors International,Industrials,60.36,25.26,67.54,51.96,59.75,10.63%,Below 52 Week High ,BETTER,SELL,3,3,8,8
+EXPE,Expedia Inc.,Consumer Discretionary,123.03,30.99,161,115.55,138.275,6.47%,Above 52 Week Low,BEST,SELL,1,3,31,10
+EXR,Extra Space Storage,Real Estate,77.56,18.12,88.56,71.34,79.95,8.72%,Above 52 Week Low,BEST,HOLD,1,2,18,9
+F,Ford Motor,Consumer Discretionary,10.43,5.89,13.48,10.19,11.835,2.36%,Above 52 Week Low,BEST,BUY,1,1,6,6
+FAST,Fastenal Co,Industrials,52.15,27.02,57.815,39.79,48.8025,9.80%,Below 52 Week High ,BETTER,SELL,3,3,9,9
+FB,"Facebook, Inc.",Information Technology,171.58,27.9,195.32,132.44,163.88,12.15%,Below 52 Week High ,BETTER,SELL,3,3,9,9
+FBHS,Fortune Brands Home & Security,Industrials,62.44,20.27,73.62,55.25,64.435,13.01%,Above 52 Week Low,BEST,SELL,1,3,20,7
+FCX,Freeport-McMoRan Inc.,Materials,17.16,14.67,20.25,11.05,15.65,15.26%,Below 52 Week High ,BETTER,BUY,3,1,5,15
+FDX,FedEx Corporation,Industrials,239.27,19.45,274.66,182.89,228.775,12.89%,Below 52 Week High ,BETTER,HOLD,3,2,6,10
+FE,FirstEnergy Corp,Utilities,30.64,11.18,35.22,27.93,31.575,9.70%,Above 52 Week Low,BEST,BUY,1,1,11,11
+FFIV,F5 Networks,Information Technology,137.25,21.21,149.5,114.63,132.065,8.19%,Below 52 Week High ,BETTER,SELL,3,3,7,7
+FIS,Fidelity National Information Services,Information Technology,92.74,22.08,103.65,77.63,90.64,10.53%,Below 52 Week High ,BETTER,SELL,3,3,7,7
+FISV,Fiserv Inc,Information Technology,133.05,27.32,144.2,106.2,125.2,7.73%,Below 52 Week High ,BETTER,SELL,3,3,9,9
+FITB,Fifth Third Bancorp,Financials,31.1,16.9,33.91,23.2,28.555,8.29%,Below 52 Week High ,BETTER,HOLD,3,2,6,8
+FL,Foot Locker Inc,Consumer Discretionary,45.88,9.5,77.86,28.42,53.14,61.44%,Above 52 Week Low,BAD,BUY,5,1,2,10
+FLIR,FLIR Systems,Information Technology,46.46,25.53,52.88,33.75,43.315,12.14%,Below 52 Week High ,BETTER,SELL,3,3,9,9
+FLR,Fluor Corp.,Industrials,55.31,19.9,62.09,37.0351,49.56255,10.92%,Below 52 Week High ,BETTER,HOLD,3,2,7,10
+FLS,Flowserve Corporation,Industrials,40.82,26.17,51.92,37.51,44.715,8.82%,Above 52 Week Low,BEST,SELL,1,3,26,9
+FMC,FMC Corporation,Materials,80.87,32.48,98.7,56.53,77.615,18.06%,Below 52 Week High ,BETTER,SELL,3,3,11,11
+FOX,Twenty-First Century Fox Class B,Consumer Discretionary,34.09,17.57,38.56,24.3,31.43,11.59%,Below 52 Week High ,BETTER,HOLD,3,2,6,9
+FOXA,Twenty-First Century Fox Class A,Consumer Discretionary,34.56,17.81,39.135,24.81,31.9725,11.69%,Below 52 Week High ,BETTER,HOLD,3,2,6,9
+FRT,Federal Realty Investment Trust,Real Estate,108.11,18.35,143.79,109.74,126.765,-1.49%,Below 52 Week Low,CAUTION,HOLD,4,2,5,9
+FTI,TechnipFMC,Energy,29.1,18.77,35,24.53,29.765,18.63%,Above 52 Week Low,BEST,HOLD,1,2,19,9
+FTV,Fortive Corp,Industrials,69.14,25.05,76.68,54.8844,65.7822,9.83%,Below 52 Week High ,BETTER,SELL,3,3,8,8
+GD,General Dynamics,Industrials,206.05,20.71,229.54,181.94,205.74,10.23%,Below 52 Week High ,BETTER,SELL,3,3,7,7
+GE,General Electric,Industrials,14.45,13.76,30.59,14.71,22.65,-1.77%,Below 52 Week Low,CAUTION,BUY,4,1,3,14
+GGP,General Growth Properties Inc.,Real Estate,21.62,13.86,25.72,18.83,22.275,14.82%,Above 52 Week Low,BEST,BUY,1,1,14,14
+GILD,Gilead Sciences,Health Care,78.22,8.16,89.54,63.759,76.6495,12.64%,Below 52 Week High ,BETTER,BUY,3,1,3,8
+GIS,General Mills,Consumer Staples,53.99,17.53,63.73,49.65,56.69,8.74%,Above 52 Week Low,BEST,HOLD,1,2,18,9
+GLW,Corning Inc.,Information Technology,28.45,16.45,35.1,26.31,30.705,8.13%,Above 52 Week Low,BEST,HOLD,1,2,16,8
+GM,General Motors,Consumer Discretionary,40.75,6.58,46.76,31.92,39.34,12.85%,Below 52 Week High ,BETTER,BUY,3,1,2,7
+GOOG,Alphabet Inc Class C,Information Technology,1001.52,40.29,1186.89,803.1903,995.04015,15.62%,Below 52 Week High ,BETTER,SELL,3,3,13,13
+GOOGL,Alphabet Inc Class A,Information Technology,1007.71,31.48,1198,824.3,1011.15,22.25%,Above 52 Week Low,GOOD,SELL,2,3,16,10
+GPC,Genuine Parts,Consumer Discretionary,96.31,21.17,107.75,79.86,93.805,10.62%,Below 52 Week High ,BETTER,SELL,3,3,7,7
+GPN,Global Payments Inc.,Information Technology,100.59,27.86,113.26,76.47,94.865,11.19%,Below 52 Week High ,BETTER,SELL,3,3,9,9
+GPS,Gap Inc.,Consumer Discretionary,31.17,15.35,35.68,21.02,28.35,12.64%,Below 52 Week High ,BETTER,HOLD,3,2,5,8
+GRMN,Garmin Ltd.,Consumer Discretionary,61.13,21.23,64.96,48.5,56.73,5.90%,Below 52 Week High ,BETTER,SELL,3,3,7,7
+GS,Goldman Sachs Group,Financials,246.35,12.44,273.79,209.62,241.705,10.02%,Below 52 Week High ,BETTER,BUY,3,1,4,12
+GT,Goodyear Tire & Rubber,Consumer Discretionary,30.75,9.92,37.2,28.81,33.005,6.73%,Above 52 Week Low,BEST,BUY,1,1,10,10
+GWW,Grainger (W.W.) Inc.,Industrials,258.6,22.57,298.145,155,226.5725,13.26%,Below 52 Week High ,BETTER,SELL,3,3,8,8
+HAL,Halliburton Co.,Energy,47.41,38.86,57.86,38.181,48.0205,24.17%,Above 52 Week Low,GOOD,SELL,2,3,19,13
+HAS,Hasbro Inc.,Consumer Discretionary,96.48,20.57,116.2,87.92,102.06,9.74%,Above 52 Week Low,BEST,SELL,1,3,21,7
+HBAN,Huntington Bancshares,Financials,15.1,15.41,16.53,12.14,14.335,8.65%,Below 52 Week High ,BETTER,HOLD,3,2,5,8
+HBI,Hanesbrands Inc,Consumer Discretionary,19.57,10.04,25.73,18.9,22.315,3.54%,Above 52 Week Low,BEST,BUY,1,1,10,10
+HCA,HCA Holdings,Health Care,95.97,14.07,106.84,71.18,89.01,10.17%,Below 52 Week High ,BETTER,BUY,3,1,5,14
+HCN,Welltower Inc.,Real Estate,54.67,12.74,78.17,55.29,66.73,-1.12%,Below 52 Week Low,CAUTION,BUY,4,1,3,13
+HCP,HCP Inc.,Real Estate,22.64,10.99,33.67,22.8,28.235,-0.70%,Below 52 Week Low,CAUTION,BUY,4,1,3,11
+HD,Home Depot,Consumer Discretionary,181.22,28.1,207.605,136.82,172.2125,12.71%,Below 52 Week High ,BETTER,SELL,3,3,9,9
+HES,Hess Corporation,Energy,43,-9.33,55.48,37.25,46.365,15.44%,Above 52 Week Low,BEST,LOOK,1,4,-9,-2
+HIG,Hartford Financial Svc.Gp.,Financials,53.34,14.34,59.2,46.35,52.775,9.90%,Below 52 Week High ,BETTER,BUY,3,1,5,14
+HII,Huntington Ingalls Industries,Industrials,225.37,18.75,253.44,183.42,218.43,11.08%,Below 52 Week High ,BETTER,HOLD,3,2,6,9
+HLT,Hilton Worldwide Holdings Inc,Consumer Discretionary,78.66,36.42,88.11,55.79,71.95,10.73%,Below 52 Week High ,BETTER,SELL,3,3,12,12
+HOG,Harley-Davidson,Consumer Discretionary,47.54,13.7,63.4,44.52,53.96,6.78%,Above 52 Week Low,BEST,BUY,1,1,14,14
+HOLX,Hologic,Health Care,38.8,19.21,46.8,35.76,41.28,8.50%,Above 52 Week Low,BEST,HOLD,1,2,19,10
+HON,Honeywell Int'l Inc.,Industrials,146.02,20.68,165.13,119.31,142.22,11.57%,Below 52 Week High ,BETTER,SELL,3,3,7,7
+HP,Helmerich & Payne,Energy,64.87,-54.51,75.02,42.16,58.59,13.53%,Below 52 Week High ,BETTER,LOOK,3,4,-18,-14
+HPE,Hewlett Packard Enterprise,Information Technology,15.04,11.57,24.88,12.815,18.8475,17.36%,Above 52 Week Low,BEST,BUY,1,1,12,12
+HPQ,HP Inc.,Information Technology,19.92,12.07,24.1,15.39,19.745,17.34%,Below 52 Week High ,BETTER,BUY,3,1,4,12
+HRB,Block H&R,Financials,25.19,12.29,31.8,19.85,25.825,26.90%,Above 52 Week Low,GOOD,BUY,2,1,6,12
+HRL,Hormel Foods Corp.,Consumer Staples,32.21,20.39,38,29.75,33.875,8.27%,Above 52 Week Low,BEST,SELL,1,3,20,7
+HRS,Harris Corporation,Information Technology,149.84,26.38,160.67,104.16,132.415,6.74%,Below 52 Week High ,BETTER,SELL,3,3,9,9
+HSIC,Henry Schein,Health Care,70.85,19.85,93.495,65.28,79.3875,8.53%,Above 52 Week Low,BEST,HOLD,1,2,20,10
+HST,Host Hotels & Resorts,Real Estate,18.75,11.23,21.53,17.26,19.395,8.63%,Above 52 Week Low,BEST,BUY,1,1,11,11
+HSY,The Hershey Company,Consumer Staples,97.65,20.51,116.49,98.851,107.6705,-1.21%,Below 52 Week Low,CAUTION,SELL,4,3,5,7
+HUM,Humana Inc.,Health Care,262.37,22.39,293.35,189.01,241.18,10.56%,Below 52 Week High ,BETTER,SELL,3,3,7,7
+IBM,International Business Machines,Information Technology,147.59,10.67,182.79,139.13,160.96,6.08%,Above 52 Week Low,BEST,BUY,1,1,11,11
+ICE,Intercontinental Exchange,Financials,67,22.95,76.1378,56.8,66.4689,12.00%,Below 52 Week High ,BETTER,SELL,3,3,8,8
+IDXX,IDEXX Laboratories,Health Care,169.28,53.57,198.73,140.63,169.68,20.37%,Above 52 Week Low,GOOD,SELL,2,3,27,18
+IFF,Intl Flavors & Fragrances,Materials,138,24.17,157.4,116.3,136.85,12.33%,Below 52 Week High ,BETTER,SELL,3,3,8,8
+ILMN,Illumina Inc,Health Care,209.54,52.25,248.97,158.0203,203.49515,15.84%,Below 52 Week High ,BETTER,SELL,3,3,17,17
+INCY,Incyte,Health Care,83.92,-119.89,153.15,84.21,118.68,-0.34%,Below 52 Week Low,CAUTION,LOOK,4,4,-30,-30
+INFO,IHS Markit Ltd.,Industrials,43.73,26.19,49.19,37.82,43.505,11.10%,Below 52 Week High ,BETTER,SELL,3,3,9,9
+INTC,Intel Corp.,Information Technology,42.75,12.32,50.85,33.23,42.04,15.93%,Below 52 Week High ,BETTER,BUY,3,1,4,12
+INTU,Intuit Inc.,Information Technology,152.75,40.52,170.59,111.9,141.245,10.46%,Below 52 Week High ,BETTER,SELL,3,3,14,14
+IP,International Paper,Materials,56.05,15.57,66.94,49.6,58.27,13.00%,Above 52 Week Low,BEST,HOLD,1,2,16,8
+IPG,Interpublic Group,Consumer Discretionary,21.34,15.46,25.71,18.3,22.005,16.61%,Above 52 Week Low,BEST,HOLD,1,2,15,8
+IQV,IQVIA Holdings Inc.,Health Care,95.23,21.74,110.67,75.94,93.305,13.95%,Below 52 Week High ,BETTER,SELL,3,3,7,7
+IR,Ingersoll-Rand PLC,Industrials,87.6,19.38,97.67,77.26,87.465,10.31%,Below 52 Week High ,BETTER,HOLD,3,2,6,10
+IRM,Iron Mountain Incorporated,Real Estate,32.07,15.42,41.53,32.05,36.79,0.06%,Above 52 Week Low,BETTER,HOLD,3,2,5,8
+ISRG,Intuitive Surgical Inc.,Health Care,381.87,48.58,452,233.10643,342.553215,15.52%,Below 52 Week High ,BETTER,SELL,3,3,16,16
+IT,Gartner Inc,Information Technology,114.26,36.86,142.16,97.96,120.06,16.64%,Above 52 Week Low,BEST,SELL,1,3,37,12
+ITW,Illinois Tool Works,Industrials,156.15,23.62,179.07,126.52,152.795,12.80%,Below 52 Week High ,BETTER,SELL,3,3,8,8
+IVZ,Invesco Ltd.,Financials,31.92,11.87,38.43,29.36,33.895,8.72%,Above 52 Week Low,BEST,BUY,1,1,12,12
+JBHT,J. B. Hunt Transport Services,Industrials,114.81,30.62,126.49,83.35,104.92,9.23%,Below 52 Week High ,BETTER,SELL,3,3,10,10
+JCI,Johnson Controls International,Industrials,36.55,14,44.37,34.51,39.44,5.91%,Above 52 Week Low,BEST,BUY,1,1,14,14
+JEC,Jacobs Engineering Group,Industrials,62.82,19.45,72.18,49.31,60.745,12.97%,Below 52 Week High ,BETTER,HOLD,3,2,6,10
+JNJ,Johnson & Johnson,Health Care,126.36,17.31,148.32,113.15,130.735,11.67%,Above 52 Week Low,BEST,HOLD,1,2,17,9
+JNPR,Juniper Networks,Information Technology,24.66,14.09,30.96,23.87,27.415,3.31%,Above 52 Week Low,BEST,BUY,1,1,14,14
+JPM,JPMorgan Chase & Co.,Financials,107.88,15.43,117.3529,81.635,99.49395,8.07%,Below 52 Week High ,BETTER,HOLD,3,2,5,8
+JWN,Nordstrom,Consumer Discretionary,47.23,15.04,53,37.7924,45.3962,10.89%,Below 52 Week High ,BETTER,HOLD,3,2,5,8
+K,Kellogg Co.,Consumer Staples,65.98,16.5,76.69,58.76,67.725,12.29%,Above 52 Week Low,BEST,HOLD,1,2,17,8
+KEY,KeyCorp,Financials,20.08,14.66,22.22,16.28,19.25,9.63%,Below 52 Week High ,BETTER,BUY,3,1,5,15
+KHC,Kraft Heinz Co,Consumer Staples,71.58,20.11,97.77,72.05,84.91,-0.65%,Below 52 Week Low,CAUTION,SELL,4,3,5,7
+KIM,Kimco Realty,Real Estate,14.01,9.28,25.15,14.33,19.74,-2.23%,Below 52 Week Low,CAUTION,BUY,4,1,2,9
+KLAC,KLA-Tencor Corp.,Information Technology,98.54,16.59,121.65,86.33,103.99,14.14%,Above 52 Week Low,BEST,HOLD,1,2,17,8
+KMB,Kimberly-Clark,Consumer Staples,111.69,17.93,136.21,109.67,122.94,1.84%,Above 52 Week Low,BEST,HOLD,1,2,18,9
+KMI,Kinder Morgan,Energy,16.8,25.07,22.75,16.56,19.655,1.45%,Above 52 Week Low,BEST,SELL,1,3,25,8
+KMX,Carmax Inc,Consumer Discretionary,64.34,19.44,77.64,54.29,65.965,18.51%,Above 52 Week Low,BEST,HOLD,1,2,19,10
+KO,Coca-Cola Company (The),Consumer Staples,43.1,22.8,48.615,40.22,44.4175,7.16%,Above 52 Week Low,BEST,SELL,1,3,23,8
+KORS,Michael Kors Holdings,Consumer Discretionary,60.03,14.29,69.95,32.38,51.165,14.18%,Below 52 Week High ,BETTER,BUY,3,1,5,14
+KR,Kroger Co.,Consumer Staples,27.57,13.07,34.75,19.69,27.22,20.66%,Below 52 Week High ,BETTER,BUY,3,1,4,13
+KSS,Kohl's Corp.,Consumer Discretionary,60.34,16.01,69.14,35.16,52.15,12.73%,Below 52 Week High ,BETTER,HOLD,3,2,5,8
+KSU,Kansas City Southern,Industrials,103.53,19.8,114.85,81.54,98.195,9.86%,Below 52 Week High ,BETTER,HOLD,3,2,7,10
+L,Loews Corp.,Financials,46.05,15.99,53.59,45.01,49.3,2.31%,Above 52 Week Low,BEST,HOLD,1,2,16,8
+LB,L Brands Inc.,Consumer Discretionary,47.77,12.77,63.1,35,49.05,36.49%,Above 52 Week Low,GOOD,BUY,2,1,6,13
+LEG,Leggett & Platt,Consumer Discretionary,43.99,17.88,54.97,42,48.485,4.74%,Above 52 Week Low,BEST,HOLD,1,2,18,9
+LEN,Lennar Corp.,Consumer Discretionary,59.11,15.35,72.17,43.647053,57.9085265,18.10%,Below 52 Week High ,BETTER,HOLD,3,2,5,8
+LH,Laboratory Corp. of America Holding,Health Care,165.46,17.79,181.715,130.292,156.0035,8.95%,Below 52 Week High ,BETTER,HOLD,3,2,6,9
+LKQ,LKQ Corporation,Consumer Discretionary,38.86,21.35,43.8599,27.85,35.85495,11.40%,Below 52 Week High ,BETTER,SELL,3,3,7,7
+LLL,L-3 Communications Holdings,Industrials,198.79,23.14,218.705,159.43,189.0675,9.11%,Below 52 Week High ,BETTER,SELL,3,3,8,8
+LLY,Lilly (Eli) & Co.,Health Care,74.21,17.34,89.09,75.71,82.4,-1.98%,Below 52 Week Low,CAUTION,HOLD,4,2,4,9
+LMT,Lockheed Martin Corp.,Industrials,334.3,24.28,361.79,256.4,309.095,7.60%,Below 52 Week High ,BETTER,SELL,3,3,8,8
+LNC,Lincoln National,Financials,73.86,9.49,86.68,61.45,74.065,20.20%,Above 52 Week Low,GOOD,BUY,2,1,5,9
+LNT,Alliant Energy Corp,Utilities,37.14,19.86,45.55,36.84,41.195,0.81%,Above 52 Week Low,BETTER,HOLD,3,2,7,10
+LOW,Lowe's Cos.,Consumer Discretionary,95.01,23.87,108.98,70.76,89.87,12.82%,Below 52 Week High ,BETTER,SELL,3,3,8,8
+LRCX,Lam Research,Information Technology,162.23,16.29,219.7,113.1982,166.4491,43.31%,Above 52 Week Low,CAUTION,HOLD,4,2,4,8
+LUK,Leucadia National Corp.,Financials,23.86,15.39,28.3,22.23,25.265,7.33%,Above 52 Week Low,BEST,HOLD,1,2,15,8
+LUV,Southwest Airlines,Industrials,55.63,15.89,66.985,49.76,58.3725,11.80%,Above 52 Week Low,BEST,HOLD,1,2,16,8
+LYB,LyondellBasell,Materials,105.79,10.35,121.95,78.01,99.98,13.25%,Below 52 Week High ,BETTER,BUY,3,1,3,10
+M,Macy's Inc.,Consumer Discretionary,24,7.67,33.73,17.405,25.5675,37.89%,Above 52 Week Low,GOOD,BUY,2,1,4,8
+MA,Mastercard Inc.,Information Technology,160.62,34.99,177.11,105.8,141.455,9.31%,Below 52 Week High ,BETTER,SELL,3,3,12,12
+MAA,Mid-America Apartments,Real Estate,85.39,14.38,110.95,86.95,98.95,-1.79%,Below 52 Week Low,CAUTION,BUY,4,1,4,14
+MAC,Macerich,Real Estate,58.36,14.81,69.73,52.12,60.925,11.97%,Above 52 Week Low,BEST,BUY,1,1,15,15
+MAR,Marriott Int'l.,Consumer Discretionary,133.88,32.73,149.21,85.3725,117.29125,10.27%,Below 52 Week High ,BETTER,SELL,3,3,11,11
+MAS,Masco Corp.,Industrials,40.7,22.12,46.445,31.29,38.8675,12.37%,Below 52 Week High ,BETTER,SELL,3,3,7,7
+MAT,Mattel Inc.,Consumer Discretionary,16,-14.68,26.3,12.71,19.505,25.89%,Above 52 Week Low,GOOD,LOOK,2,4,-7,-4
+MCD,McDonald's Corp.,Consumer Discretionary,158.97,23.83,178.7,124.36,151.53,11.04%,Below 52 Week High ,BETTER,SELL,3,3,8,8
+MCHP,Microchip Technology,Information Technology,79.9,21.77,99.17,69.76,84.465,14.54%,Above 52 Week Low,BEST,SELL,1,3,22,7
+MCK,McKesson Corp.,Health Care,150.23,11.68,178.86,133.82,156.34,12.26%,Above 52 Week Low,BEST,BUY,1,1,12,12
+MCO,Moody's Corp,Financials,152.14,26.55,167.23,106.48,136.855,9.02%,Below 52 Week High ,BETTER,SELL,3,3,9,9
+MDLZ,Mondelez International,Consumer Staples,42.68,19.85,47.23,39.19,43.21,8.91%,Above 52 Week Low,BEST,HOLD,1,2,20,10
+MDT,Medtronic plc,Health Care,78.38,17.04,89.72,75.44,82.58,3.90%,Above 52 Week Low,BEST,HOLD,1,2,17,9
+MET,MetLife Inc.,Financials,44.28,8.52,56.58,44.58,50.58,-0.67%,Below 52 Week Low,CAUTION,BUY,4,1,2,9
+MGM,MGM Resorts International,Consumer Discretionary,33.5,29.65,38.41,25.15,31.78,12.78%,Below 52 Week High ,BETTER,SELL,3,3,10,10
+MHK,Mohawk Industries,Consumer Discretionary,256.57,19.08,286.85,209.9,248.375,10.56%,Below 52 Week High ,BETTER,HOLD,3,2,6,10
+MKC,McCormick & Co.,Consumer Staples,101.36,23.91,109.67,90.25,99.96,7.58%,Below 52 Week High ,BETTER,SELL,3,3,8,8
+MLM,Martin Marietta Materials,Materials,208.42,30.38,244.32,191.09,217.705,9.07%,Above 52 Week Low,BEST,SELL,1,3,30,10
+MMC,Marsh & McLennan,Financials,79.31,20.23,86.54,69.33,77.935,8.35%,Below 52 Week High ,BETTER,SELL,3,3,7,7
+MMM,3M Company,Industrials,222.89,24.31,259.77,175.49,217.63,14.20%,Below 52 Week High ,BETTER,SELL,3,3,8,8
+MNST,Monster Beverage,Consumer Staples,61.99,42.17,70.215,41.02,55.6175,11.71%,Below 52 Week High ,BETTER,SELL,3,3,14,14
+MO,Altria Group Inc,Consumer Staples,64.05,18.89,77.79,60.01,68.9,6.73%,Above 52 Week Low,BEST,HOLD,1,2,19,9
+MON,Monsanto Co.,Materials,119.08,21.53,123.15,106.97,115.06,3.30%,Below 52 Week High ,BETTER,SELL,3,3,7,7
+MOS,The Mosaic Company,Materials,24.13,23.66,34.36,19.23,26.795,25.48%,Above 52 Week Low,GOOD,SELL,2,3,12,8
+MPC,Marathon Petroleum,Energy,62.79,16.06,73.53,47.39,60.46,14.61%,Below 52 Week High ,BETTER,HOLD,3,2,5,8
+MRK,Merck & Co.,Health Care,54.73,13.75,66.8,53.63,60.215,2.05%,Above 52 Week Low,BEST,BUY,1,1,14,14
+MRO,Marathon Oil Corp.,Energy,15.68,-32,19.52,10.55,15.035,19.67%,Below 52 Week High ,BETTER,LOOK,3,4,-11,-8
+MS,Morgan Stanley,Financials,51.79,14.23,58.05,40.06,49.055,10.78%,Below 52 Week High ,BETTER,BUY,3,1,5,14
+MSFT,Microsoft Corp.,Information Technology,85.01,25.76,96.07,63.22,79.645,11.51%,Below 52 Week High ,BETTER,SELL,3,3,9,9
+MSI,Motorola Solutions Inc.,Information Technology,98.74,19.03,107.78,77.23,92.505,8.39%,Below 52 Week High ,BETTER,HOLD,3,2,6,10
+MTB,M&T Bank Corp.,Financials,178.35,18.91,193.85,141.12,167.485,8.00%,Below 52 Week High ,BETTER,HOLD,3,2,6,9
+MTD,Mettler Toledo,Health Care,601,35.56,697.26,459.34,578.3,13.81%,Below 52 Week High ,BETTER,SELL,3,3,12,12
+MU,Micron Technology,Information Technology,40,9.01,49.89,22.64,36.265,19.82%,Below 52 Week High ,BETTER,BUY,3,1,3,9
+MYL,Mylan N.V.,Health Care,39.25,8.35,47.82,29.39,38.605,17.92%,Below 52 Week High ,BETTER,BUY,3,1,3,8
+NAVI,Navient,Financials,13.38,7.56,16.97,11.481,14.2255,16.54%,Above 52 Week Low,BEST,BUY,1,1,8,8
+NBL,Noble Energy Inc,Energy,25.43,105.96,39.6,22.985,31.2925,10.64%,Above 52 Week Low,BEST,SELL,1,3,106,35
+NCLH,Norwegian Cruise Line,Consumer Discretionary,56.01,15.35,61.48,46.96,54.22,8.90%,Below 52 Week High ,BETTER,HOLD,3,2,5,8
+NDAQ,"Nasdaq, Inc.",Financials,75.21,17.78,83.29,65.98,74.635,9.70%,Below 52 Week High ,BETTER,HOLD,3,2,6,9
+NEE,NextEra Energy,Utilities,145.29,21.65,159.64,124.18,141.91,8.99%,Below 52 Week High ,BETTER,SELL,3,3,7,7
+NEM,Newmont Mining Corporation,Materials,36.61,26.34,42.04,31.42,36.73,16.52%,Above 52 Week Low,BEST,SELL,1,3,26,9
+NFLX,Netflix Inc.,Information Technology,250.1,200.08,286.81,138.26,212.535,12.80%,Below 52 Week High ,BETTER,SELL,3,3,67,67
+NFX,Newfield Exploration Co,Energy,26.38,13.12,43.74,24.41,34.075,8.07%,Above 52 Week Low,BEST,BUY,1,1,13,13
+NI,NiSource Inc.,Utilities,22.51,19.57,27.76,21.93,24.845,2.64%,Above 52 Week Low,BEST,HOLD,1,2,20,10
+NKE,Nike,Consumer Discretionary,62.49,24.9,68.83,50.35,59.59,9.21%,Below 52 Week High ,BETTER,SELL,3,3,8,8
+NLSN,Nielsen Holdings,Industrials,33.9,18.73,45.73,34.22,39.975,-0.94%,Below 52 Week Low,CAUTION,HOLD,4,2,5,9
+NOC,Northrop Grumman Corp.,Industrials,324.01,24.4,349.18,231.98,290.58,7.21%,Below 52 Week High ,BETTER,SELL,3,3,8,8
+NOV,National Oilwell Varco Inc.,Energy,32.64,-77.71,41.895,29.9,35.8975,9.16%,Above 52 Week Low,BEST,LOOK,1,4,-78,-19
+NRG,NRG Energy,Utilities,24,17.78,29.78,14.52,22.15,19.41%,Below 52 Week High ,BETTER,HOLD,3,2,6,9
+NSC,Norfolk Southern Corp.,Industrials,136.89,20.65,157.1499,109.27,133.20995,12.89%,Below 52 Week High ,BETTER,SELL,3,3,7,7
+NTAP,NetApp,Information Technology,55.85,26.1,64.0599,37.43,50.74495,12.82%,Below 52 Week High ,BETTER,SELL,3,3,9,9
+NTRS,Northern Trust Corp.,Financials,96.2,19.96,108.91,83.17,96.04,11.67%,Below 52 Week High ,BETTER,HOLD,3,2,7,10
+NUE,Nucor Corp.,Materials,60.38,17.01,70.48,51.67,61.075,16.86%,Above 52 Week Low,BEST,HOLD,1,2,17,9
+NVDA,Nvidia Corporation,Information Technology,217.52,82.08,249.27,95.17,172.22,12.74%,Below 52 Week High ,BETTER,SELL,3,3,27,27
+NWL,Newell Brands,Consumer Discretionary,27.91,9.72,55.08,23.85,39.465,17.02%,Above 52 Week Low,BEST,BUY,1,1,10,10
+NWS,News Corp. Class B,Consumer Discretionary,15.85,44.03,17.7,12.35,15.025,10.45%,Below 52 Week High ,BETTER,SELL,3,3,15,15
+NWSA,News Corp. Class A,Consumer Discretionary,15.65,43.47,17.29,12,14.645,9.49%,Below 52 Week High ,BETTER,SELL,3,3,14,14
+O,Realty Income Corporation,Real Estate,47.56,15.54,63.6,48.89,56.245,-2.72%,Below 52 Week Low,CAUTION,HOLD,4,2,4,8
+OKE,ONEOK,Energy,54.4,34,61.36,47.14,54.25,11.34%,Below 52 Week High ,BETTER,SELL,3,3,11,11
+OMC,Omnicom Group,Consumer Discretionary,75.91,15.27,86.71,65.32,76.015,16.21%,Above 52 Week Low,BEST,HOLD,1,2,15,8
+ORCL,Oracle Corp.,Information Technology,46.84,18.81,53.14,40.01,46.575,11.86%,Below 52 Week High ,BETTER,HOLD,3,2,6,9
+ORLY,O'Reilly Automotive,Consumer Discretionary,252.22,21.91,279.23,169.43,224.33,9.67%,Below 52 Week High ,BETTER,SELL,3,3,7,7
+OXY,Occidental Petroleum,Energy,68.47,195.63,78.09,57.2,67.645,12.32%,Below 52 Week High ,BETTER,SELL,3,3,65,65
+PAYX,Paychex Inc.,Information Technology,61.86,27.49,73.1,54.2,63.65,14.13%,Above 52 Week Low,BEST,SELL,1,3,27,9
+PBCT,People's United Financial,Financials,18.56,18.02,20.14,15.965,18.0525,7.85%,Below 52 Week High ,BETTER,HOLD,3,2,6,9
+PCAR,PACCAR Inc.,Industrials,66.98,15.72,79.69,61.93,70.81,8.15%,Above 52 Week Low,BEST,HOLD,1,2,16,8
+PCG,PG&E Corp.,Utilities,38.24,8.75,71.57,38.45,55.01,-0.55%,Below 52 Week Low,CAUTION,BUY,4,1,2,9
+PCLN,Priceline.com Inc,Consumer Discretionary,1806.06,24.26,2067.99,1589,1828.495,13.66%,Above 52 Week Low,BEST,SELL,1,3,24,8
+PDCO,Patterson Companies,Health Care,32.88,14.05,48.295,32.07,40.1825,2.53%,Above 52 Week Low,BEST,BUY,1,1,14,14
+PEG,Public Serv. Enterprise Inc.,Utilities,46.73,16.11,53.28,41.67,47.475,12.14%,Above 52 Week Low,BEST,HOLD,1,2,16,8
+PEP,PepsiCo Inc.,Consumer Staples,110.15,21.51,122.51,104.77,113.64,5.14%,Above 52 Week Low,BEST,SELL,1,3,22,7
+PFE,Pfizer Inc.,Health Care,33.63,12.69,39.43,31.67,35.55,6.19%,Above 52 Week Low,BEST,BUY,1,1,13,13
+PFG,Principal Financial Group,Financials,60.38,11.96,75.585,58.9401,67.26255,2.44%,Above 52 Week Low,BEST,BUY,1,1,12,12
+PG,Procter & Gamble,Consumer Staples,80.22,20.46,94.67,80.1,87.385,0.15%,Above 52 Week Low,BETTER,SELL,3,3,7,7
+PGR,Progressive Corp.,Financials,51.07,20.76,58.25,36.84,47.545,12.33%,Below 52 Week High ,BETTER,SELL,3,3,7,7
+PH,Parker-Hannifin,Industrials,174.51,21.6,212.8,145.38,179.09,20.04%,Above 52 Week Low,GOOD,SELL,2,3,11,7
+PHM,Pulte Homes Inc.,Consumer Discretionary,28.67,12.86,35.21,21.06,28.135,18.57%,Below 52 Week High ,BETTER,BUY,3,1,4,13
+PKG,Packaging Corporation of America,Materials,111.95,18.57,131.1316,88.47,109.8008,14.63%,Below 52 Week High ,BETTER,HOLD,3,2,6,9
+PKI,PerkinElmer,Health Care,72.06,24.68,84.49,52.63,68.56,14.71%,Below 52 Week High ,BETTER,SELL,3,3,8,8
+PLD,Prologis,Real Estate,58.33,20.76,67.53,48.69,58.11,13.62%,Below 52 Week High ,BETTER,SELL,3,3,7,7
+PM,Philip Morris International,Consumer Staples,100.39,22.36,123.55,96.66,110.105,3.86%,Above 52 Week Low,BEST,SELL,1,3,22,7
+PNC,PNC Financial Services,Financials,149.38,17.55,160.07,115.25,137.66,6.68%,Below 52 Week High ,BETTER,HOLD,3,2,6,9
+PNR,Pentair Ltd.,Industrials,66.67,18.89,74.84,57.63,66.235,10.92%,Below 52 Week High ,BETTER,HOLD,3,2,6,9
+PNW,Pinnacle West Capital,Utilities,74.34,16.06,92.48,73.81,83.145,0.72%,Above 52 Week Low,BETTER,HOLD,3,2,5,8
+PPG,PPG Industries,Materials,110.3,18.73,122.0697,99.57,110.81985,10.78%,Above 52 Week Low,BEST,HOLD,1,2,19,9
+PPL,PPL Corp.,Utilities,29.52,12.83,40.2,29.205,34.7025,1.08%,Above 52 Week Low,BEST,BUY,1,1,13,13
+PRGO,Perrigo,Health Care,84.44,,95.93,63.68,79.805,11.98%,Below 52 Week High ,BETTER,LOOK,3,4,0,0
+PRU,Prudential Financial,Financials,103.38,9.99,127.14,97.88,112.51,5.62%,Above 52 Week Low,BEST,BUY,1,1,10,10
+PSA,Public Storage,Real Estate,180.49,18.21,232.21,180.9254,206.5677,-0.24%,Below 52 Week Low,CAUTION,HOLD,4,2,5,9
+PSX,Phillips 66,Energy,92.44,21.11,107.47,75.135,91.3025,13.99%,Below 52 Week High ,BETTER,SELL,3,3,7,7
+PVH,PVH Corp.,Consumer Discretionary,142.68,20.98,157.96,84.53,121.245,9.67%,Below 52 Week High ,BETTER,SELL,3,3,7,7
+PWR,Quanta Services Inc.,Industrials,33.51,17.54,40.105,30.23,35.1675,10.85%,Above 52 Week Low,BEST,HOLD,1,2,18,9
+PX,Praxair Inc.,Materials,144.07,24.63,166.95,115.53,141.24,13.70%,Below 52 Week High ,BETTER,SELL,3,3,8,8
+PXD,Pioneer Natural Resources,Energy,169.16,118.29,199.83,125.46,162.645,15.35%,Below 52 Week High ,BETTER,SELL,3,3,39,39
+PYPL,PayPal,Information Technology,72.32,49.53,86.32,39.92,63.12,16.22%,Below 52 Week High ,BETTER,SELL,3,3,17,17
+QCOM,QUALCOMM Inc.,Information Technology,62.42,16.51,69.28,48.92,59.1,9.90%,Below 52 Week High ,BETTER,HOLD,3,2,6,8
+QRVO,Qorvo,Information Technology,76.85,19.71,85.24,62.68,73.96,9.84%,Below 52 Week High ,BETTER,HOLD,3,2,7,10
+RCL,Royal Caribbean Cruises Ltd,Consumer Discretionary,122.45,16.26,135.65,93.4,114.525,9.73%,Below 52 Week High ,BETTER,HOLD,3,2,5,8
+RE,Everest Re Group Ltd.,Financials,241.06,27.24,277.17,208.81,242.99,15.44%,Above 52 Week Low,BEST,SELL,1,3,27,9
+REG,Regency Centers Corporation,Real Estate,55.58,15.27,72.05,56.66,64.355,-1.91%,Below 52 Week Low,CAUTION,HOLD,4,2,4,8
+REGN,Regeneron,Health Care,322.62,27.93,543.5518,319.5,431.5259,0.98%,Above 52 Week Low,BETTER,SELL,3,3,9,9
+RF,Regions Financial Corp.,Financials,17.9,17.9,19.9,13,16.45,10.05%,Below 52 Week High ,BETTER,HOLD,3,2,6,9
+RHI,Robert Half International,Industrials,52.26,20.18,60.59,42.92,51.755,13.75%,Below 52 Week High ,BETTER,SELL,3,3,7,7
+RHT,Red Hat Inc.,Information Technology,124.65,79.9,135.77,78.48,107.125,8.19%,Below 52 Week High ,BETTER,SELL,3,3,27,27
+RJF,Raymond James Financial Inc.,Financials,86.06,16.94,99.1,71.35,85.225,13.16%,Below 52 Week High ,BETTER,HOLD,3,2,6,8
+RL,Polo Ralph Lauren Corp.,Consumer Discretionary,101.32,17.74,119.33,66.06,92.695,15.09%,Below 52 Week High ,BETTER,HOLD,3,2,6,9
+RMD,ResMed,Health Care,89.26,31.54,104.78,67.04,85.91,14.81%,Below 52 Week High ,BETTER,SELL,3,3,11,11
+ROK,Rockwell Automation Inc.,Industrials,178.73,26.48,210.72,147.67,179.195,21.03%,Above 52 Week Low,GOOD,SELL,2,3,13,9
+ROP,Roper Technologies,Industrials,259.4,27.57,290.415,191.22,240.8175,10.68%,Below 52 Week High ,BETTER,SELL,3,3,9,9
+ROST,Ross Stores,Consumer Discretionary,75.06,26.52,85.66,52.85,69.255,12.37%,Below 52 Week High ,BETTER,SELL,3,3,9,9
+RRC,Range Resources Corp.,Energy,12.82,35.61,34.09,12.7,23.395,0.94%,Above 52 Week Low,BETTER,SELL,3,3,12,12
+RSG,Republic Services Inc,Industrials,62.72,26.13,69.4,57.53,63.465,9.02%,Above 52 Week Low,BEST,SELL,1,3,26,9
+RTN,Raytheon Co.,Industrials,198.74,25.78,213.45,147.86,180.655,6.89%,Below 52 Week High ,BETTER,SELL,3,3,9,9
+SBAC,SBA Communications,Real Estate,159.85,199.81,177.67,103.51,140.59,10.03%,Below 52 Week High ,BETTER,SELL,3,3,67,67
+SBUX,Starbucks Corp.,Consumer Discretionary,53.77,25.98,64.87,52.58,58.725,2.26%,Above 52 Week Low,BEST,SELL,1,3,26,9
+SCG,SCANA Corp,Utilities,35.6,8.75,71.28,35.31,53.295,0.82%,Above 52 Week Low,BETTER,BUY,3,1,3,9
+SCHW,Charles Schwab Corporation,Financials,48.9,29.82,56.25,37.16,46.705,13.07%,Below 52 Week High ,BETTER,SELL,3,3,10,10
+SEE,Sealed Air,Materials,42.62,21.31,50.62,41.22,45.92,3.40%,Above 52 Week Low,BEST,SELL,1,3,21,7
+SHW,Sherwin-Williams,Materials,387.65,26.75,435.15,302.0101,368.58005,10.92%,Below 52 Week High ,BETTER,SELL,3,3,9,9
+SIG,Signet Jewelers,Consumer Discretionary,49.38,6.65,77.94,46.09,62.015,7.14%,Above 52 Week Low,BEST,BUY,1,1,7,7
+SJM,JM Smucker,Consumer Staples,118.37,15.35,143.68,99.565,121.6225,18.89%,Above 52 Week Low,BEST,HOLD,1,2,15,8
+SLB,Schlumberger Ltd.,Energy,67.4,44.93,82.71,61.02,71.865,10.46%,Above 52 Week Low,BEST,SELL,1,3,45,15
+SLG,SL Green Realty,Real Estate,90.61,14.07,115.34,91.2,103.27,-0.65%,Below 52 Week Low,CAUTION,BUY,4,1,4,14
+SNA,Snap-On Inc.,Consumer Discretionary,156.72,15.81,185.47,140.83,163.15,11.28%,Above 52 Week Low,BEST,HOLD,1,2,16,8
+SNI,Scripps Networks Interactive Inc.,Consumer Discretionary,86.46,16.04,88.87,64.87,76.87,2.71%,Below 52 Week High ,BETTER,HOLD,3,2,5,8
+SNPS,Synopsys Inc.,Information Technology,82.62,67.72,94.8,64.75,79.775,12.85%,Below 52 Week High ,BETTER,SELL,3,3,23,23
+SO,Southern Co.,Utilities,43.4,15.78,53.51,42.63,48.07,1.81%,Above 52 Week Low,BEST,HOLD,1,2,16,8
+SPG,Simon Property Group Inc,Real Estate,152.18,13.56,187.35,150.15,168.75,1.35%,Above 52 Week Low,BEST,BUY,1,1,14,14
+SPGI,"S&P Global, Inc.",Financials,173.31,27.38,185.38,124.64,155.01,6.51%,Below 52 Week High ,BETTER,SELL,3,3,9,9
+SRCL,Stericycle Inc,Industrials,70.55,16.26,88,61.25,74.625,15.18%,Above 52 Week Low,BEST,HOLD,1,2,16,8
+SRE,Sempra Energy,Utilities,103.36,19.14,122.975,100.63,111.8025,2.71%,Above 52 Week Low,BEST,HOLD,1,2,19,10
+STI,SunTrust Banks,Financials,65.8,16.25,72.06,51.96,62.01,8.69%,Below 52 Week High ,BETTER,HOLD,3,2,5,8
+STT,State Street Corp.,Financials,98.54,15.35,114.27,75.27,94.77,13.77%,Below 52 Week High ,BETTER,HOLD,3,2,5,8
+STX,Seagate Technology,Information Technology,47.44,11.51,56.45,30.6,43.525,15.96%,Below 52 Week High ,BETTER,BUY,3,1,4,12
+STZ,Constellation Brands,Consumer Staples,208.73,30.92,229.5,152.01,190.755,9.05%,Below 52 Week High ,BETTER,SELL,3,3,10,10
+SWK,Stanley Black & Decker,Consumer Discretionary,152.86,20.57,176.62,121.09,148.855,13.45%,Below 52 Week High ,BETTER,SELL,3,3,7,7
+SWKS,Skyworks Solutions,Information Technology,99.04,16.45,117.65,90.53,104.09,9.40%,Above 52 Week Low,BEST,HOLD,1,2,16,8
+SYF,Synchrony Financial,Financials,34.98,13.35,40.59,26.01,33.3,13.82%,Below 52 Week High ,BETTER,BUY,3,1,4,13
+SYK,Stryker Corp.,Health Care,148.01,23.46,170,122.01,146.005,12.94%,Below 52 Week High ,BETTER,SELL,3,3,8,8
+SYMC,Symantec Corp.,Information Technology,25.59,39.37,34.2,25.65,29.925,-0.23%,Below 52 Week Low,CAUTION,SELL,4,3,10,13
+SYY,Sysco Corp.,Consumer Staples,57,22.98,64.27,48.85,56.56,11.31%,Below 52 Week High ,BETTER,SELL,3,3,8,8
+T,AT&T Inc,Telecommunication Services,35.57,12.14,42.7,32.55,37.625,9.28%,Above 52 Week Low,BEST,BUY,1,1,12,12
+TAP,Molson Coors Brewing Company,Consumer Staples,74.51,17.66,102.14,75.79,88.965,-1.69%,Below 52 Week Low,CAUTION,HOLD,4,2,4,9
+TDG,TransDigm Group,Industrials,283,23.76,321.38,203.72,262.55,11.94%,Below 52 Week High ,BETTER,SELL,3,3,8,8
+TEL,TE Connectivity Ltd.,Information Technology,95.27,19.72,108.23,71.93,90.08,11.97%,Below 52 Week High ,BETTER,HOLD,3,2,7,10
+TGT,Target Corp.,Consumer Discretionary,71.11,14.19,78.7,48.56,63.63,9.64%,Below 52 Week High ,BETTER,BUY,3,1,5,14
+TIF,Tiffany & Co.,Consumer Discretionary,99.62,27,111.44,77.93,94.685,10.61%,Below 52 Week High ,BETTER,SELL,3,3,9,9
+TJX,TJX Companies Inc.,Consumer Discretionary,74.36,21.01,81.46,66.44,73.95,8.72%,Below 52 Week High ,BETTER,SELL,3,3,7,7
+TMK,Torchmark Corp.,Financials,80.52,17.02,93.595,73.53,83.5625,9.51%,Above 52 Week Low,BEST,HOLD,1,2,17,9
+TMO,Thermo Fisher Scientific,Health Care,198.73,21.84,226.44,151.69,189.065,12.24%,Below 52 Week High ,BETTER,SELL,3,3,7,7
+TPR,"Tapestry, Inc.",Consumer Discretionary,48.85,,50.71,36.69,43.7,3.67%,Below 52 Week High ,BETTER,LOOK,3,4,0,0
+TRIP,TripAdvisor,Consumer Discretionary,40.05,58.04,53.29,29.5,41.395,35.76%,Above 52 Week Low,GOOD,SELL,2,3,29,19
+TROW,T. Rowe Price Group,Financials,101.99,19.92,120.07,66.7,93.385,15.06%,Below 52 Week High ,BETTER,HOLD,3,2,7,10
+TRV,The Travelers Companies Inc.,Financials,135.01,16.48,150.55,113.76,132.155,10.32%,Below 52 Week High ,BETTER,HOLD,3,2,5,8
+TSCO,Tractor Supply Company,Consumer Discretionary,65.94,19.57,82.68,49.87,66.275,32.22%,Above 52 Week Low,GOOD,HOLD,2,2,10,10
+TSN,Tyson Foods,Consumer Staples,73.92,13.92,84.65,57.2,70.925,12.68%,Below 52 Week High ,BETTER,BUY,3,1,5,14
+TSS,Total System Services,Information Technology,81.17,25.85,89.92,50.96,70.44,9.73%,Below 52 Week High ,BETTER,SELL,3,3,9,9
+TWX,Time Warner Inc.,Consumer Discretionary,93.02,15.35,103.9,85.88,94.89,8.31%,Above 52 Week Low,BEST,HOLD,1,2,15,8
+TXN,Texas Instruments,Information Technology,97.66,24.05,120.75,74.52,97.635,19.12%,Below 52 Week High ,BETTER,SELL,3,3,8,8
+TXT,Textron Inc.,Industrials,55.54,22.13,62.19,45,53.595,10.69%,Below 52 Week High ,BETTER,SELL,3,3,7,7
+UA,Under Armour Class C,Consumer Discretionary,11.95,29.15,21.805,10.36,16.0825,15.35%,Above 52 Week Low,BEST,SELL,1,3,29,10
+UAA,Under Armour Class A,Consumer Discretionary,13.14,32.05,23.46,11.4,17.43,15.26%,Above 52 Week Low,BEST,SELL,1,3,32,11
+UAL,United Continental Holdings,Industrials,63.37,8.85,83.04,56.51,69.775,12.14%,Above 52 Week Low,BEST,BUY,1,1,9,9
+UDR,UDR Inc,Real Estate,32.92,17.79,40.71,33.31,37.01,-1.17%,Below 52 Week Low,CAUTION,HOLD,4,2,4,9
+UHS,"Universal Health Services, Inc.",Health Care,114.87,15.36,129.74,95.26,112.5,11.46%,Below 52 Week High ,BETTER,HOLD,3,2,5,8
+ULTA,Ulta Salon Cosmetics & Fragrance Inc,Consumer Discretionary,209.09,32.07,314.86,187.96,251.41,11.24%,Above 52 Week Low,BEST,SELL,1,3,32,11
+UNH,United Health Group Inc.,Health Care,216.46,21.47,250.79,156.49,203.64,13.69%,Below 52 Week High ,BETTER,SELL,3,3,7,7
+UNM,Unum Group,Financials,47.87,11.51,58.73,43.55,51.14,9.92%,Above 52 Week Low,BEST,BUY,1,1,12,12
+UNP,Union Pacific,Industrials,124.86,22.06,143.05,101.06,122.055,12.72%,Below 52 Week High ,BETTER,SELL,3,3,7,7
+UPS,United Parcel Service,Industrials,109.28,18.27,135.53,102.12,118.825,7.01%,Above 52 Week Low,BEST,HOLD,1,2,18,9
+URI,"United Rentals, Inc.",Industrials,161.99,16.33,189,100.621,144.8105,14.29%,Below 52 Week High ,BETTER,HOLD,3,2,5,8
+USB,U.S. Bancorp,Financials,52.65,15.35,58.5,49.535,54.0175,6.29%,Above 52 Week Low,BEST,HOLD,1,2,15,8
+UTX,United Technologies,Industrials,127.48,19.26,139.24,107.05,123.145,8.45%,Below 52 Week High ,BETTER,HOLD,3,2,6,10
+V,Visa Inc.,Information Technology,113.86,32.72,126.88,84.88,105.88,10.26%,Below 52 Week High ,BETTER,SELL,3,3,11,11
+VAR,Varian Medical Systems,Health Care,112.82,29.93,130.29,77.73,104.01,13.41%,Below 52 Week High ,BETTER,SELL,3,3,10,10
+VFC,V.F. Corp.,Consumer Discretionary,78.75,25.9,82.95,48.05,65.5,5.06%,Below 52 Week High ,BETTER,SELL,3,3,9,9
+VIAB,Viacom Inc.,Consumer Discretionary,32.71,8.68,46.72,22.13,34.425,47.81%,Above 52 Week Low,CAUTION,BUY,4,1,2,9
+VLO,Valero Energy,Energy,86.77,18.74,99.95,60.69,80.32,13.19%,Below 52 Week High ,BETTER,HOLD,3,2,6,9
+VMC,Vulcan Materials,Materials,121.47,40.9,141.2,108.95,125.075,11.49%,Above 52 Week Low,BEST,SELL,1,3,41,14
+VNO,Vornado Realty Trust,Real Estate,66.18,16.22,111.72,66.0101,88.86505,0.26%,Above 52 Week Low,BETTER,HOLD,3,2,5,8
+VRSK,Verisk Analytics,Industrials,92.28,28.84,100.54,75.6,88.07,8.22%,Below 52 Week High ,BETTER,SELL,3,3,10,10
+VRSN,Verisign Inc.,Information Technology,105.62,29.5,118.28,81.17,99.725,10.70%,Below 52 Week High ,BETTER,SELL,3,3,10,10
+VRTX,Vertex Pharmaceuticals Inc,Health Care,151.6,252.67,174.955,84.39,129.6725,13.35%,Below 52 Week High ,BETTER,SELL,3,3,84,84
+VTR,Ventas Inc,Real Estate,50.92,12.21,72.36,51.8,62.08,-1.70%,Below 52 Week Low,CAUTION,BUY,4,1,3,12
+VZ,Verizon Communications,Telecommunication Services,49.04,13.08,54.77,42.8,48.785,10.46%,Below 52 Week High ,BETTER,BUY,3,1,4,13
+WAT,Waters Corporation,Health Care,191.79,26.64,220.2,145.94,183.07,12.90%,Below 52 Week High ,BETTER,SELL,3,3,9,9
+WBA,Walgreens Boots Alliance,Consumer Staples,68.22,13.38,88,63.82,75.91,6.89%,Above 52 Week Low,BEST,BUY,1,1,13,13
+WDC,Western Digital,Information Technology,80.09,10.19,95.77,71.38,83.575,12.20%,Above 52 Week Low,BEST,BUY,1,1,10,10
+WEC,Wec Energy Group Inc,Utilities,59.5,19.57,70.09,56.63,63.36,5.07%,Above 52 Week Low,BEST,HOLD,1,2,20,10
+WFC,Wells Fargo,Financials,55.4,13.58,66.31,49.27,57.79,12.44%,Above 52 Week Low,BEST,BUY,1,1,14,14
+WHR,Whirlpool Corp.,Consumer Discretionary,164.95,11.77,202.99,158.8,180.895,3.87%,Above 52 Week Low,BEST,BUY,1,1,12,12
+WLTW,Willis Towers Watson,Financials,152.36,18.67,165,120.869,142.9345,7.66%,Below 52 Week High ,BETTER,HOLD,3,2,6,9
+WM,Waste Management Inc.,Industrials,79.12,25.36,89.73,69.55,79.64,13.76%,Above 52 Week Low,BEST,SELL,1,3,25,8
+WMB,Williams Cos.,Energy,28.56,48.41,33.67,26.8188,30.2444,6.49%,Above 52 Week Low,BEST,SELL,1,3,48,16
+WMT,Wal-Mart Stores,Consumer Staples,100.02,23.1,109.98,66.89,88.435,9.06%,Below 52 Week High ,BETTER,SELL,3,3,8,8
+WRK,WestRock Company,Materials,60.93,23.26,71.55,49.23,60.39,14.84%,Below 52 Week High ,BETTER,SELL,3,3,8,8
+WU,Western Union Co,Information Technology,18.81,10.17,22.21,18.39,20.3,2.28%,Above 52 Week Low,BEST,BUY,1,1,10,10
+WY,Weyerhaeuser Corp.,Real Estate,33.6,34.29,37.89,30.9504,34.4202,8.56%,Above 52 Week Low,BEST,SELL,1,3,34,11
+WYN,Wyndham Worldwide,Consumer Discretionary,113.56,18.77,127.96,80.11,104.035,11.25%,Below 52 Week High ,BETTER,HOLD,3,2,6,9
+WYNN,Wynn Resorts Ltd,Consumer Discretionary,169.28,31.7,203.63,92.67,148.15,16.87%,Below 52 Week High ,BETTER,SELL,3,3,11,11
+XEC,Cimarex Energy,Energy,100.19,26.37,136.31,89.49,112.9,11.96%,Above 52 Week Low,BEST,SELL,1,3,26,9
+XEL,Xcel Energy Inc,Utilities,42.44,18.14,52.22,41.16,46.69,3.11%,Above 52 Week Low,BEST,HOLD,1,2,18,9
+XL,XL Capital,Financials,41.26,-19.93,47.27,33.77,40.52,12.71%,Below 52 Week High ,BETTER,LOOK,3,4,-7,-5
+XLNX,Xilinx Inc,Information Technology,62.82,27.19,77.26,54.99,66.125,14.24%,Above 52 Week Low,BEST,SELL,1,3,27,9
+XOM,Exxon Mobil Corp.,Energy,76.07,21.37,89.3,76.05,82.675,0.03%,Above 52 Week Low,BETTER,SELL,3,3,7,7
+XRAY,Dentsply Sirona,Health Care,56.85,22.65,68.98,52.535,60.7575,8.21%,Above 52 Week Low,BEST,SELL,1,3,23,8
+XRX,Xerox Corp.,Information Technology,29.8,8.87,37.42,26.64,32.03,11.86%,Above 52 Week Low,BEST,BUY,1,1,9,9
+XYL,Xylem Inc.,Industrials,70.24,30.94,76.81,46.86,61.835,8.55%,Below 52 Week High ,BETTER,SELL,3,3,10,10
+YUM,Yum! Brands Inc,Consumer Discretionary,76.3,27.25,86.93,62.85,74.89,12.23%,Below 52 Week High ,BETTER,SELL,3,3,9,9
+ZBH,Zimmer Biomet Holdings,Health Care,115.53,14.32,133.49,108.17,120.83,6.80%,Above 52 Week Low,BEST,BUY,1,1,14,14
+ZION,Zions Bancorp,Financials,50.71,17.73,55.61,38.43,47.02,8.81%,Below 52 Week High ,BETTER,HOLD,3,2,6,9
+ZTS,Zoetis,Health Care,71.51,32.8,80.13,52,66.065,10.76%,Below 52 Week High ,BETTER,SELL,3,3,11,11

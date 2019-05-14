@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>Stock Finder</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.7/superhero/bootstrap.min.css">
+  <link href="https://fonts.googleapis.com/css?family=Ubuntu" rel="stylesheet">
+   <link rel="stylesheet" href="static/css/style.css">
+</head>
+
+<body>
+  <div class="wrapper">
+    <nav class="navbar navbar-default">
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <a class="navbar-brand" href="index.html">Stock Finder
+          </a>
+          <a class="navbar-brand" href="comparisons.html">Comparison
+          </a>
+           <a class="navbar-brand" href="chart.html">Chart
+           </a>
+           <a class="navbar-brand" href="testimonial.html">Testimonial
+          </a>
+        </div>
+      </div>
+    </nav>
+    <div class="hero text-center">
+      <h1>Stock Finder</h1>
+      <p>Financial Planning Assistance</p>
+    </div>
+</body>
+<div class="p"><p><b>Goals for the Stock Finder Project: </b></p>
+
+
+<p>Build internal/independent private network storage server or private cloud-stored website solution/application, providing investment tools for in-house decision making and offering investment solutions exclusively to the existing and potential investors (clients), based on predetermined algorithmic data calculations. </p>
+
+<p>The website will provide the sentiment analysis for investors to discover, react and respond to market opinion, based Equity Rating and Action combined. The sentiment is monitored and analyzed by the algorithms.</p>
+
+<p>Product solution designation is a Hedge-Fund/Private Equity Firm/Wealth Management Company.</p>
+
+<p><b>Project Performance Report:</b></p>
+
+<p>Constructed a web-ready HMTL four page dashboard called the Stock Finder – Financial Planning Assistance tool.</p>
+
+<p><b>Coding Programs applied:</b></p>
+
+<p>The logic is written in Word and Excel.</p>
+
+<p>JavaScript applied for building data tables, filtering buttons, plotted time chart.</p>
+
+<p>HTML implemented code to display web page design/GUI output.</p>
+
+<p>Python libraries created the linear plot charts. </p>
+
+<p>Visual Studio Code platform compiled and stored the code/scripts.</p>
+
+<p><b>Web-Ready Dashboard consists of four (4) HTML pages:</b></p>
+
+<p><b>Page#1-Stock Finder: </b>displaying the data table retrieved from the engineered CSV file. Table columns: Symbol, Name, Sector, Price, Price/Earn, 52w High, 52w Low, 52w Avg. were pulled from the S&amp;P500 datahub.io dataset found online. Additional table rows: Price/Annual Average Percentage, Position on Annual Average Scale, Rating and Action were all created using custom algorithms.</p>
+
+<p><b>Tested: </b></p>
+
+<p>Plot the price per earnings (P/E) vs Rating and Action. Further, P/E/ Rating vs. P/E/Action ratio.</p>
+
+<p>The preliminary numerical data test found formed numeric relationships among three (3) pairs of Rating/Action groups.</p>
+
+<p>Investment advice is derived from the relational combination of Rating and Action columns.</p>
+
+<p><b>Page#1 created columns explanation:</b></p>
+
+<p>Column = P/AA % (Percentage of Price per share / Annual Average Price)</p>
+
+<p>Column = Position w/3-Modes of P/AA% (in ascending order, top most valued):</p>
+
+<p>1. Above 52Week Low</p>
+
+<p>2. Below 52Week High</p>
+
+<p>3. Below 52Week Low</p>
+
+<p>Column = Rating (a part of investment advice, in ascending order, top most valued)</p>
+
+<p>1.Best</p>
+
+<p>2.Good</p>
+
+<p>3.Better</p>
+
+<p>4.Caution</p>
+
+<p>5.Bad</p>
+
+<p>Column = Action (a part of investment advice, in ascending order, top most valued)</p>
+
+<p>1.Buy</p>
+
+<p>2.Hold</p>
+
+<p>3.Sell</p>
+
+<p>4.Look</p>
+
+<p><b>Page#2-Comparison: </b>displaying the linear plot cluster charts created in Python Jupiter Notebook platform applying a Scikit library and using a sklearn function. The savefig() function is used to save the created cluster plot as png files. Saved png files call is performed in the html code. First three cluster plots are displaying the assumed relationship between “well-known” financial metrics.</p>
+
+<p>Last or the 4<sup>th</sup> Cluster Plot named Price/Earnings vs. Rating/Action is a custom design, “unknown” to the financial world, The cluster plot is separated into 4 cluster groups, drawn from 505 samples:</p>
+
+<p>Represents patterned linear correlation between random groups in Price/Earnings/Rating (PE/R) vs. Price/Earnings/Action (PE/A) ratios. </p>
+
+<p>Standard-English language/human comprehended decision-making data is displayed in a table on page#1.</p>
+
+<p><b>Page#3-Chart:</b> displaying the plotted time/price per share line graph/chart. Chart is plotted using a D3 JavaScript library with an on click event listener function. Plotly library is used to create and populate the line chart. Time series/Stock price data is retrieved from open-source Quandl website. Stock ticker name is entered into a Stock search box and Plot Stock button is clicked, data is retrieved from Quandl, populated and output is displayed on webpage.</p>
+
+<p><b>Page#4 –Testimonial: </b>displaying text data introducing the viewer to the Stock Finder Project.</p>
+
+<p><b><br />
+</b></p>
+
+<p><b>This financial model is intended for show purposes only, a final released version of financial platform will contain many new methods and proper formulations to aid an investor in making a positive monetary gain or money rewarding long-term investment.</b></p>
+</div>
+<div class="footer">
+    <p>&copy; Copyright Albert Gendelman 2019</p>
+  </div> 
+</html>
