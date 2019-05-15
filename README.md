@@ -7,7 +7,7 @@ Build internal/independent private network storage server or private cloud-store
 The website will provide the sentiment analysis for investors to discover, react and respond to market opinion, based Equity Rating and Action combined. The sentiment is monitored and analyzed by the algorithms.
 
 
-PERMISSION LICENSE GRANT TO ALL IS DENIED!
+PERMISSION LICENSE GRANT TO ALL EXCEPT ALBERT GENDELMAN IS DENIED!
 
 Git Hub Terms of service conditions:
 User-Generated Content:
